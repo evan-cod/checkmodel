@@ -1,4 +1,4 @@
-# Shopkeeper Brain (掌柜智库)
+# 智库
 
 基于 LangGraph 和多模态大模型的智能知识库管理与查询系统
 
